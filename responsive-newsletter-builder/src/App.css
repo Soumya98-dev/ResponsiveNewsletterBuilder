@@ -1,0 +1,16 @@
+.app-container{
+  display: flex;
+  display:100vh
+}
+
+.sidebar{
+  width: 25%;
+  padding: 20px;
+  border-right: 1px solid #ddd;
+}
+
+.canvas{
+  width:75%;
+  padding: 20px;
+  background-color: #f7f7f7;
+}
